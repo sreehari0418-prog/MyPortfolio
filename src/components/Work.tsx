@@ -8,13 +8,13 @@ const projects = [
     title: "AI Equipment Dashboard",
     category: "Predictive Maintenance",
     tools: "React, Flask, Python, Scikit-learn",
-    image: "/images/Solidx.png",
+    image: "./images/Solidx.png",
   },
   {
     title: "Blood Report Evaluator",
     category: "AI Medical Analysis",
     tools: "React, Vite, Python, LayoutLMv3, OpenCV",
-    image: "/images/radix.png",
+    image: "./images/radix.png",
   },
 ];
 
